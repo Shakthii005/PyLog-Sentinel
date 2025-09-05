@@ -1,6 +1,7 @@
 # PyLog-Sentinel 🔎🛡️  
 A lightweight, open-source log analysis and threat detection tool built with Python
-
+###
+BLOG FOR THIS PROJECT : https://medium.com/@rukhuraj1/building-pylog-sentinel-my-mini-soc-project-in-python-f225495b9b56
 ## 🚀 Overview
 PyLog-Sentinel is a beginner-friendly, open-source **Mini-SOC log analyzer** designed for students and aspiring **Network Security Engineers**.  
 It ingests raw network device logs (Cisco-style), parses them into structured data, applies detection rules, and generates security alerts for:  
