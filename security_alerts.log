@@ -1,0 +1,3 @@
+2025-09-05 11:04:14,677 - WARNING - \U0001f6a8 Possible brute-force attack from 10.0.0.5 - 3 failed logins
+2025-09-05 11:04:14,678 - WARNING - \U0001f6a8 Possible brute-force SUCCESS from 10.0.0.5 - 3 failures followed by success
+2025-09-05 11:04:14,678 - WARNING - \u26a0\ufe0f Possible port scan from 192.168.1.50 - 3 denies
