@@ -25,6 +25,7 @@ This project was built as part of my **Cybersecurity + Network Security learning
 ---
 
 ## 📂 File Structure
+
 │── analyzer.py # Main log analyzer script
 │── network_logs.txt # Sample log file for testing
 │── security_alerts.log # Generated alerts file
@@ -50,7 +51,7 @@ parsed_logs.csv → Structured logs (CSV)
 
 -------------------
 
-Why This Project?
+## Why This Project?
 
 As an aspiring Network Security Engineer, I built PyLog-Sentinel to:
 
@@ -64,14 +65,14 @@ This project is intentionally lightweight, but it mirrors real SOC workflows:
 Logs → Parse → Detect → Alert → Export
 
 -----------------------------
-Open Source
+## Open Source
 
 PyLog-Sentinel is released as open-source (MIT License).
 Anyone can fork, extend, or contribute detection rules.
 Future plans include adding support for firewall logs, IDS alerts, and SIEM integration.
 
 ---------------------
-Author
+## Author
 
 Shakthivel Rajesh
 
