@@ -14,6 +14,7 @@ This project was built as part of my **Cybersecurity + Network Security learning
 ---
 
 ## ✨ Features
+
 - Parses raw text logs into **structured JSON and CSV**  
 - Detects brute-force login attempts  
 - Detects brute-force success (post login failures)  
@@ -48,6 +49,7 @@ parsed_logs.json → Structured logs (JSON)
 parsed_logs.csv → Structured logs (CSV)
 
 -------------------
+
 Why This Project?
 
 As an aspiring Network Security Engineer, I built PyLog-Sentinel to:
@@ -60,12 +62,14 @@ Demonstrate practical skills to internship recruiters & SFS program reviewers
 
 This project is intentionally lightweight, but it mirrors real SOC workflows:
 Logs → Parse → Detect → Alert → Export
+
 -----------------------------
 Open Source
 
 PyLog-Sentinel is released as open-source (MIT License).
 Anyone can fork, extend, or contribute detection rules.
 Future plans include adding support for firewall logs, IDS alerts, and SIEM integration.
+
 ---------------------
 Author
 
@@ -78,4 +82,5 @@ Shakthivel Rajesh
 🌎 Aspiring Network Security Engineer 
 
 📧 svelr005@gmail.com
+
 https://www.linkedin.com/in/svelr005/
