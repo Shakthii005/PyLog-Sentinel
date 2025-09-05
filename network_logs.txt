@@ -1,0 +1,12 @@
+Aug 30 09:12:45 Router1 %SEC-4-LOGIN_FAILED: Login failed for user admin from 10.0.0.5
+Aug 30 09:12:46 Router1 %SEC-4-LOGIN_FAILED: Login failed for user admin from 10.0.0.5
+Aug 30 09:12:47 Router1 %SEC-4-LOGIN_FAILED: Login failed for user admin from 10.0.0.5
+Aug 30 09:12:48 Router1 %SEC-4-LOGIN_FAILED: Login failed for user admin from 10.0.0.5
+Aug 30 09:13:02 Firewall1 %SEC-6-IPACCESSLOGP: list 101 denied tcp 10.0.0.5(12345) -> 192.168.1.10(22), 1 packet
+Aug 30 09:13:03 Firewall1 %SEC-6-IPACCESSLOGP: list 101 denied tcp 10.0.0.5(12346) -> 192.168.1.10(22), 1 packet
+Aug 30 09:13:04 Firewall1 %SEC-6-IPACCESSLOGP: list 101 denied tcp 10.0.0.5(12347) -> 192.168.1.10(22), 1 packet
+Aug 30 09:13:05 Firewall1 %SEC-6-IPACCESSLOGP: list 101 denied tcp 10.0.0.5(12348) -> 192.168.1.10(22), 1 packet
+Aug 30 10:00:01 Router1 %SEC-4-LOGIN_FAILED: Login failed for user admin from 192.168.1.50
+Aug 30 10:00:02 Router1 %SEC-4-LOGIN_FAILED: Login failed for user admin from 192.168.1.50
+Aug 30 10:00:03 Router1 %SEC-4-LOGIN_FAILED: Login failed for user admin from 192.168.1.50
+Aug 30 10:00:04 Router1 %SEC-5-LOGIN_SUCCESS: Login successful for user admin from 192.168.1.50
